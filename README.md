@@ -2,4 +2,4 @@
 
 
 In this project referene object taken as cup.
-Reference for masked image color  is color_map.py
+Reference for masked image colormaping refer file is color_map.py
